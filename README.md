@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=260&section=header&text=OH%20SANGHYEOP&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=260&section=header&text=OH%20SANGHYEOP&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=fadeIn)
 <div>
 
   <!--Body-->
