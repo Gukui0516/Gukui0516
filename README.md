@@ -21,7 +21,8 @@ A Spacetime shooter where you eliminate every enemy with a single bullet by cont
 **Engine**: Unity 2D | Team Project  
 **Role**: Programming, mechanic design, stage design, art asset creation 
 
-[Steam Page](https://store.steampowered.com/app/4314550/Spacetime_Shooter/) | [GitHub Repository](https://github.com/TeamGoodDuck)
+[![Steam](https://img.shields.io/badge/Steam-SPACETIME%20SHOOTER-172536?style=for-the-badge&logo=steam&logoColor=white&labelColor=5A5A5A)](https://store.steampowered.com/app/4314550/Spacetime_Shooter/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=5A5A5A)](https://github.com/TeamGoodDuck)
 
 ### 02. WobbleWobble
 
@@ -31,8 +32,8 @@ A physics-based simulation game where players carefully remove red bomb blocks w
 **Engine**: Unity 2D | Team Project  
 **Role**: Programming, stage design, art asset creation  
 
-[Steam Page](https://store.steampowered.com/app/4529820/_/) | [GitHub Repository](https://github.com/badeulbadeul)
-
+[![Steam](https://img.shields.io/badge/Steam-WOBBLEWOBBLE-172536?style=for-the-badge&logo=steam&logoColor=white&labelColor=5A5A5A)](https://store.steampowered.com/app/4529820/_/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=5A5A5A)](https://github.com/badeulbadeul)
 
 ## Contact
 
