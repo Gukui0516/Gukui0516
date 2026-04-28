@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2D0A4E&height=260&section=header&text=Gukui&fontColor=D8B4FE&fontSize=70&fontAlignY=40&animation=fadeIn)
 
-## About me.
+## About me
 
 I'm a Unity client programmer focused on gameplay programming and interactive game systems.
 
