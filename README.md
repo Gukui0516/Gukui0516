@@ -30,7 +30,7 @@ A physics-based simulation game where players carefully remove red bomb blocks w
 
 **Period**: Mar. 2026 ~ Apr. 2026  
 **Engine**: Unity 2D | Team Project  
-**Role**: Programming, stage design, art asset creation  
+**Role**: Programming, stage design
 
 [![Steam](https://img.shields.io/badge/Steam-WOBBLEWOBBLE-172536?style=for-the-badge&logo=steam&logoColor=white&labelColor=5A5A5A)](https://store.steampowered.com/app/4529820/_/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=5A5A5A)](https://github.com/badeulbadeul)
