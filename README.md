@@ -2,11 +2,11 @@
 
 ## Tech Stack
 
-###Language
+### Language
 <br>
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
-###Gaming
+### Gaming
 <br>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
