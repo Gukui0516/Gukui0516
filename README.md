@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2D0A4E&height=260&section=header&text=OH%20SANGHYEOP&fontColor=D8B4FE&fontSize=70&fontAlignY=40&animation=fadeIn)
 
-## Hi, I'm Oh Sanghyeop
+## Hi, I'm Oh Sanghyeop.
 
-I'm an indie game developer interested in Unity, gameplay programming
+I'm a Unity client programmer focused on gameplay programming and interactive game systems.
 
 ## Tech Stack
 
@@ -15,23 +15,23 @@ I'm an indie game developer interested in Unity, gameplay programming
 
 ### 01. Spacetime Shooter
 
-A puzzle shooter where you eliminate every enemy with a single bullet by controlling time and trajectory.
+A Spacetime shooter where you eliminate every enemy with a single bullet by controlling time and trajectory.
 
 **Period**: Mar. 2025 ~ Jul. 2025  
 **Engine**: Unity 2D | Team Project  
 **Role**: Programming, mechanic design, stage design, art asset creation 
 
-[Steam Page](스팀링크) | [GitHub Repository](깃허브링크)
+[Steam Page](https://store.steampowered.com/app/4314550/Spacetime_Shooter/) | [GitHub Repository](https://github.com/TeamGoodDuck)
 
 ### 02. WobbleWobble
 
-A physics-based puzzle game where players carefully remove red bomb blocks without collapsing the structure.
+A physics-based 시뮬레이션 game where players carefully remove red bomb blocks without collapsing the structure.
 
 **Period**: Mar. 2026 ~ Apr. 2026  
 **Engine**: Unity 2D | Team Project  
 **Role**: Programming, stage design, art asset creation  
 
-[Steam Page](스팀링크) | [GitHub Repository](깃허브링크)
+[Steam Page](https://store.steampowered.com/app/4529820/_/) | [GitHub Repository](https://github.com/badeulbadeul)
 
 
 ## Contact
