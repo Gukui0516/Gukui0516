@@ -32,9 +32,9 @@ A physics-based puzzle game where players carefully remove red bomb blocks witho
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=midnight-purple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gukui0516&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gukui0516&layout=compact&theme=midnight-purple)
 
 ## Contact
 
