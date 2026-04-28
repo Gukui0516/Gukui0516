@@ -25,7 +25,7 @@ A Spacetime shooter where you eliminate every enemy with a single bullet by cont
 
 ### 02. WobbleWobble
 
-A physics-based 시뮬레이션 game where players carefully remove red bomb blocks without collapsing the structure.
+A physics-based simulation game where players carefully remove red bomb blocks without collapsing the structure.
 
 **Period**: Mar. 2026 ~ Apr. 2026  
 **Engine**: Unity 2D | Team Project  
