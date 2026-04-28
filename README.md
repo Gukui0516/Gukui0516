@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2D0A4E&height=260&section=header&text=OH%20SANGHYEOP&fontColor=D8B4FE&fontSize=70&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2D0A4E&height=260&section=header&text=Gukui&fontColor=D8B4FE&fontSize=70&fontAlignY=40&animation=fadeIn)
 
 ## Hi, I'm Oh Sanghyeop.
 
