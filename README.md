@@ -17,7 +17,7 @@ I'm a Unity client programmer focused on gameplay programming and interactive ga
 
 A Spacetime shooter where you eliminate every enemy with a single bullet by controlling time and trajectory.
 
-**Period**: Nov. 2025 ~ Apr. 2026  
+**Period**: Nov. 2025 ~ Feb. 2026  
 **Engine**: Unity 2D | Team Project  
 **Role**: Programming, mechanic design, stage design, art asset creation 
 
